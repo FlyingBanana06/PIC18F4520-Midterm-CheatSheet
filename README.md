@@ -40,5 +40,6 @@ PIC18F4520 期中上機題庫/
         problems_E.js       # E. 16-bit 運算
         problems_F.js       # F. 副程式與 Macro
         problems_G.js       # G. 高階綜合
+```
 
-> 使用AI: DeepSeek-V4.1-Flash
+> 使用 AI 模型: DeepSeek-V4.1-Flash
