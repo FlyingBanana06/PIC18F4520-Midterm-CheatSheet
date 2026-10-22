@@ -4,6 +4,10 @@
 
 因為考試期間無法連網，考前需要一份能快速搜尋、複習的「大抄」。本專案收錄了 69 道常見的組合語言（Assembly）考題，包含分類、題目描述、測試資料，以及附有簡潔英文註解的完整程式碼。
 
+別問為什麼是 69 題，問就是幸運數字
+
+6666999999 LEEETTT'SS GOOOOO
+
 ## 📸 網站截圖 (Screenshot)
 
 ![PIC18F4520 題庫截圖](./images/screenshot1.jpg)
@@ -36,3 +40,6 @@ PIC18F4520 期中上機題庫/
         problems_E.js       # E. 16-bit 運算
         problems_F.js       # F. 副程式與 Macro
         problems_G.js       # G. 高階綜合
+```
+
+> 使用 AI 模型: DeepSeek-V4.1-Flash
